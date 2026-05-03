@@ -56,6 +56,7 @@ Este projeto é um exemplo de como uma aplicação de visão computacional pode 
 
 Below is an example image of the gesture recognition process. Add your own screenshot here to show the live prediction interface and how gestures are recognized.
 
+![Gesture recognition demo](docs/gesture_demo.png)
 
 ## Project structure
 
